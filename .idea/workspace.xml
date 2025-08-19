@@ -1,32 +1,174 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d13871ab-2f92-4849-8eba-40e0beaf38fd" name="Changes" comment="" />
+    <list default="true" id="d13871ab-2f92-4849-8eba-40e0beaf38fd" name="Changes" comment="working on drug_dispensary_system">
+      <change beforePath="$PROJECT_DIR$/.idea/DrugDispensarySystem.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/DrugDispensarySystem.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DrugDispensaryApp/drug_dispensary_management_class.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DrugDispensaryApp/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DrugDispensaryApp/prescription_class.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DrugDispensaryApp/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DrugDispensaryApp/users_class.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/IMG20250519143320.jpg" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Eddy-star223&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Eddy-star223/DrugDispensarySystem.git&quot;,
+    &quot;accountId&quot;: &quot;956c1020-296c-436f-82fe-45348742e7ec&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="31QuY9wOHIizjIhJat6oRakQgrT" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python tests.Python tests for test.TestDrugDispensarySystem.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.TestDrugDispensarySystem.test_dispense_twice.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.TestDrugDispensarySystem.test_duplicate_user.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.TestDrugDispensarySystem.test_invalid_prescription_code.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.TestDrugDispensarySystem.test_login_fail.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.TestDrugDispensarySystem.test_login_success.executor&quot;: &quot;Run&quot;,
+    &quot;Python tests.Python tests for test.TestDrugDispensarySystem.test_prescription_creation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.users_class.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;EddyBranch&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\DELL\Desktop\DrugDispensarySystem\DrugDispensaryApp" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests for test.TestDrugDispensarySystem.test_login_fail">
+    <configuration name="Python tests for test.TestDrugDispensarySystem.test_dispense_twice" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="DrugDispensarySystem" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DrugDispensaryApp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test.TestDrugDispensarySystem.test_dispense_twice&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test.TestDrugDispensarySystem.test_duplicate_user" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="DrugDispensarySystem" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DrugDispensaryApp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test.TestDrugDispensarySystem.test_duplicate_user&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test.TestDrugDispensarySystem.test_invalid_prescription_code" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="DrugDispensarySystem" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DrugDispensaryApp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test.TestDrugDispensarySystem.test_invalid_prescription_code&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test.TestDrugDispensarySystem.test_login_fail" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="DrugDispensarySystem" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DrugDispensaryApp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test.TestDrugDispensarySystem.test_login_fail&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test.TestDrugDispensarySystem.test_prescription_creation" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="DrugDispensarySystem" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DrugDispensaryApp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test.TestDrugDispensarySystem.test_prescription_creation&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for test.TestDrugDispensarySystem.test_login_fail" />
+        <item itemvalue="Python tests.Python tests for test.TestDrugDispensarySystem.test_duplicate_user" />
+        <item itemvalue="Python tests.Python tests for test.TestDrugDispensarySystem.test_prescription_creation" />
+        <item itemvalue="Python tests.Python tests for test.TestDrugDispensarySystem.test_invalid_prescription_code" />
+        <item itemvalue="Python tests.Python tests for test.TestDrugDispensarySystem.test_dispense_twice" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -42,11 +184,64 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1755468664023</updated>
-      <workItem from="1755468665235" duration="15000" />
+      <workItem from="1755468665235" duration="14097000" />
+      <workItem from="1755611462434" duration="2789000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1755472737437</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1755472737437</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1755472791415</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1755472791415</updated>
+    </task>
+    <task id="LOCAL-00003" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1755472972285</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1755472972285</updated>
+    </task>
+    <task id="LOCAL-00004" summary="working on drug_dispensary_system">
+      <option name="closed" value="true" />
+      <created>1755473268197</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1755473268197</updated>
+    </task>
+    <task id="LOCAL-00005" summary="working on drug_dispensary_system">
+      <option name="closed" value="true" />
+      <created>1755473337408</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1755473337409</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="working 0n drug_dispensary_system" />
+    <MESSAGE value="first commit" />
+    <MESSAGE value="working on drug_dispensary_system" />
+    <option name="LAST_COMMIT_MESSAGE" value="working on drug_dispensary_system" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DrugDispensarySystem$users_class.coverage" NAME="users_class Coverage Results" MODIFIED="1755472022721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DrugDispensaryApp" />
+    <SUITE FILE_PATH="coverage/DrugDispensarySystem$main.coverage" NAME="main Coverage Results" MODIFIED="1755472560830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DrugDispensaryApp" />
+    <SUITE FILE_PATH="coverage/DrugDispensarySystem$.coverage" NAME=" Coverage Results" MODIFIED="1755537903183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DrugDispensaryApp" />
   </component>
 </project>
