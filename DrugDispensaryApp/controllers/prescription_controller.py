@@ -1,8 +1,8 @@
-from services.prescription_service import PrescriptionService
+from DrugDispensaryApp.services.login_service import register_user
 
 class PrescriptionController:
     def __init__(self):
-        self.service = PrescriptionService()
+        self.service = register_user()
 
     def create_prescription(self, request):
         return self.service.create_prescription(request)
