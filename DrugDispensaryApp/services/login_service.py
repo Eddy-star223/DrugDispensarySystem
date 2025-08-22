@@ -16,6 +16,7 @@ def register_user():
 
     USERS[username] = {"password": password, "role": role}
     print("User registered successfully!")
+    return role
 
 def show_users():
     for username, info in USERS.items():
